@@ -1,6 +1,6 @@
 // Configuração
 function testNotEqual(val) {
-    if (val != 99) { // Altere esta linha
+    if (val != 999) { // Altere esta linha
       return "Not Equal";
     }
     return "Equal";
